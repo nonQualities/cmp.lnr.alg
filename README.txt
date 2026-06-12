@@ -32,10 +32,11 @@ FOR MORE OR HAVING A CHAT:
       > DISCORD: nonQualities
       > MAIL   : CHOUDHURY.RONIT@PROTON.ME
 
-|--------------------------------------------------------------------------------------------------------------------------------------------|
-|  DISCLAIMER: EVERYTHING IN THIS REPOSITORY IS WRITTEN, SOLVED, CODED BY ME. I HAVE STRICTLY RESTRICTED MYSELF THE USE OF AI IN THIS REPO,  | 
-|  ANY AI USED HERE ARE USED FOR EDUCATING MYSELF, RATHER THAN DOING THE ACTUAL JOB OF SOLVING AND CODING.                                   |
-|--------------------------------------------------------------------------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------------------------------------|
+|  DISCLAIMER: EVERYTHING IN THIS REPOSITORY IS WRITTEN,                                                         |                            
+|  SOLVED, CODED BY ME. I HAVE STRICTLY RESTRICTED MYSELF THE USE OF AI IN THIS REPO,                            | 
+|  ANY AI USED HERE ARE USED FOR EDUCATING MYSELF, RATHER THAN DOING THE ACTUAL JOB OF SOLVING AND CODING.       |
+|----------------------------------------------------------------------------------------------------------------|
 
 
 quu..__
